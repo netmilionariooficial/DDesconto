@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.landpage.co	TRUE	/netmilionario123	FALSE	1999999999	stg-tracker	deleted
+.assets-landingi.com	TRUE	/	FALSE	1999999999	__cfduid	de6fe7f49e7a86339cf1b9a7f415a4f8c1598127764
+styles.assets-landingi.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.landpage.co	TRUE	/	FALSE	1999999999	PHPSESSID	0onspgv2a61thmfcsrg42a26kkh1qj45
+
